@@ -1,0 +1,64 @@
+
+.App{
+    
+  position: absolute;
+  top: 30px;
+  left: 620px;
+  font-size: 25px;
+}
+.one{
+  position: relative;
+  left: 80px;
+  border-radius: 9px;
+  top:100px;
+  background-color: rgb(255, 255, 255) ;
+}
+.two{
+  position: absolute;
+  border-radius:10px;
+  left: 80px;
+  top:220px;
+  background-color: rgb(249, 254, 255) ;
+}
+.three{
+  position: absolute;
+  border-radius: 10px;
+  left: 80px;
+  top:265px;
+  background-color: rgb(247, 247, 247) ;
+}
+
+.buttn{
+  position: absolute;
+  border-radius: 10px;
+  height:43px;
+  width:56px;
+  margin: auto; 
+  left: 350px;
+  background-color: rgb(255, 3, 3);
+  color: rgb(243, 242, 242);
+  font-size: 16px;
+  top:113px;
+  
+}
+
+.buttn:hover{
+  background-color: rgb(200, 7, 7);
+}
+
+.inpt{
+  position: absolute;
+  top:120px;
+  left: 80px;
+  height:30px;
+  width: 250px;
+  margin: auto;
+  background-color: rgb(251, 253, 250);
+  font-size: 20px;
+  text-align: center;
+  
+  
+  
+  
+
+}
